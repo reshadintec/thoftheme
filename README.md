@@ -1,0 +1,2 @@
+# thoftheme
+ A WordPress theme
